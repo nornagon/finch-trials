@@ -1,6 +1,7 @@
+#!/usr/bin/env node
+
 const protobuf = require('protobufjs')
 const https = require('https')
-
 
 protobuf.load(__dirname + '/variations_seed.proto', (err, root) => {
   if (err) throw err
