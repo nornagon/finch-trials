@@ -4,7 +4,7 @@ Fetch and parse Chrome's Finch trial configuration.
 ## Usage
 
 ```
-$ node .
+$ npx finch-trials
 {
   "serialNumber": "d6226671fecbb11184e8f289a51f7a420516ce69",
   "study": [
