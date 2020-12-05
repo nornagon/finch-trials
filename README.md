@@ -48,4 +48,4 @@ $ npx finch-trials
 }
 ```
 
-Interpreting this data is up to you :)
+Interpreting this data is up to you :) The [Chromium source](https://source.chromium.org/chromium/chromium/src/+/master:components/variations/proto/variations_seed.proto) is probably a good place to start.
