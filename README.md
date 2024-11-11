@@ -1,7 +1,7 @@
 # finch-trials
 Fetch and parse Chrome's Finch trial configuration.
 
-See [nornagon/finch-trials-history](/nornagon/finch-trials-history) for historical Finch trial data.
+See [nornagon/finch-trials-history](https://github.com/nornagon/finch-trials-history) for historical Finch trial data.
 
 ## Usage
 
